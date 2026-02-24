@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "銀世界",
+  "base_artist": "BURNOUT SYNDROMES",
+  "createdAt": "2026-02-24T09:00:19.857776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "銀世界",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/01_銀世界_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "銀世界",
+      "artist": "eyelis",
+      "has_synced": true,
+      "path": "select/02_銀世界_eyelis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "銀世界",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/03_銀世界_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "銀世界",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/04_銀世界_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "銀世界",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/05_銀世界_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "銀世界 (OVA EDIT)",
+      "artist": "eyelis",
+      "has_synced": false,
+      "path": "select/06_銀世界_(OVA_EDIT)_eyelis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀世界",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/pl_01_銀世界_BURNOUT_SYNDROMES.txt"
+    }
+  ]
+}
